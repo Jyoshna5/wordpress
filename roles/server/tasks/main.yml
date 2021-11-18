@@ -13,4 +13,4 @@
     - php7.2-mysql
     - php7.2
     - libapache2-mod-php7.2
-    - python-mysqldb
+    - python3-mysqldb
